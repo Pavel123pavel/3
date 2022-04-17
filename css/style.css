@@ -40,13 +40,13 @@ body {
   margin-bottom: 50px;
 }
 
-.section1-list {
+.section1_list {
   display: inline-block;
   padding: 24px 49px;
   margin-right: 25px;
 }
 
-.section1-list:last-child {
+.section1_list:last-child {
   margin-right: 0;
 }
 
