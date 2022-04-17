@@ -1,24 +1,24 @@
 html {
-	box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 *,
 *::before,
 *::after {
-	box-sizing: inherit;
+  box-sizing: inherit;
 }
 
 a {
-	color: inherit;
-	text-decoration: none;
+  color: inherit;
+  text-decoration: none;
 }
 
 img {
-	max-width: 100%;
+  max-width: 100%;
 }
 
 body {
-	font-family: 'font', sans-serif;
+  font-family: 'font', sans-serif;
 }
 
 .main-content {
@@ -36,17 +36,17 @@ body {
   margin-bottom: 50px;
 }
 
-.section {
+.section1 {
   margin-bottom: 50px;
 }
 
-.section-list {
+.section1-list {
   display: inline-block;
   padding: 24px 49px;
   margin-right: 25px;
 }
 
-.section-list:last-child {
+.section1-list:last-child {
   margin-right: 0;
 }
 
@@ -87,7 +87,7 @@ body {
 .content .lead {
   margin: 0 0 10px;
   width: 692px;
-  }
+}
 
 .content .lead:last-child {
   margin: 0;
@@ -108,8 +108,8 @@ body {
 }
 
 .subtitle {
-   margin: 0 0 10px;
- }
+  margin: 0 0 10px;
+}
 
 .img {
   margin-bottom: 40px;
